@@ -1,0 +1,7 @@
+2026-01-01 09:00:00 INFO Service started
+2026-01-01 09:01:00 WARNING High memory usage
+2026-01-01 09:02:00 ERROR Database timeout
+2026-01-01 09:03:00 INFO Retrying connection
+2026-01-01 09:04:00 ERROR Database timeout
+2026-01-01 09:05:00 ERROR Request failed
+2026-01-01 09:06:00 DEBUG Worker restarted
